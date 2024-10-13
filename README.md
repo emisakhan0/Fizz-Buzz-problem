@@ -1,1 +1,1 @@
-# Fizz-Buzz-problem
+# fibonacci-js
